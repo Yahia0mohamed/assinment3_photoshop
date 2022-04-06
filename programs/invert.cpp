@@ -1,6 +1,6 @@
 // FCI -Programming 1 - 2022 - Assignment 3
 // Program name : invert filter
-//Last Modification Date: /4/2022
+//Last Modification Date: 1/4/2022
 //Author and ID and Group: yahia mohamed nabil,20210454,GroupA
 //Teaching assistant: Eng Yousra Ayman
 //Purpose: This application enables the user to convert gray scale image to a negative version of it
