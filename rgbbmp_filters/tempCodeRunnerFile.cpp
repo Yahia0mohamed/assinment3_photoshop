@@ -1,0 +1,1 @@
+readRGBBMP(directory,rotated_image);
