@@ -62,19 +62,14 @@ int main()
     while (true)
     {
         loadImage();
-        cout << "1-Black and White Image\n4-Flip Image \n0-To End " << endl;
+        cout << 4-Flip Image \n0-To End " << endl;
         string x;
         while (true)
         {
             cout << "Enter your choice please " << endl;
             cin.ignore();
             cin >> x;
-            if (x == "1")
-            {
-                applyBinaryFilter();
-                saveImage();
-            }
-            else if (x == "4")
+            if (x == "4")
             {
                 applyInvertingFilter();
                 saveImage();
